@@ -1,1 +1,0 @@
-// Student-facing stamp card component
